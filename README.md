@@ -4,7 +4,6 @@ changes.
 Christine Colvin
 
 <<<<<<< HEAD
-Moravian
 
 Pink and Green :) :3 like matcha....I love matcha
 =======
