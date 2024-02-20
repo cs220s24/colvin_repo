@@ -3,6 +3,12 @@ changes.
 
 Christine Colvin
 
+<<<<<<< HEAD
 Moravian
 
 Pink and Green :) :3 like matcha....I love matcha
+=======
+
+Moravian
+
+>>>>>>> ce8788480c0beff88c4fd322326f9606361f68ac
